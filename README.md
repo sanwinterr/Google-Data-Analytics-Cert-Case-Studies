@@ -35,5 +35,7 @@ I used the data consists of 12 monthly trip files for 2025, provided by Cyclisti
 2. Promote cost savings to frequent weekend riders.
 3. Use geotargeted marketing at high-traffic tourist stations.
 
+**[Tableau dashboard](https://public.tableau.com/app/profile/san.winter/viz/Cyclisticbikesharecasestudy_membersvscasualriders/Cyclisticbikesharecasestudy_membervscasualriders)**
+
 **Conclusion:**
 The analysis reveals clear behavioral differences between casual riders and annual members. By focusing marketing efforts on high-usage casual riders during peak engagement periods, Cyclistic can increase membership conversions, improve customer retention, and drive long-term revenue growth.
